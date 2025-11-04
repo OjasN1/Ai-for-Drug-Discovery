@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="587505fc-7853-4f74-a3b9-04b96e8fa6f9" name="Changes" comment="adding some new things for the testing of active learning and federated learning">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/datasets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/federated_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/federated_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fragment_mix.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fragment_mix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/run_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/run_pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train_local.py" afterDir="false" />
-    </list>
+    <list default="true" id="587505fc-7853-4f74-a3b9-04b96e8fa6f9" name="Changes" comment="made changes in the federated and active learning module and they are working pretty good" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +91,7 @@
       <workItem from="1759353198979" duration="1776000" />
       <workItem from="1761507743292" duration="133000" />
       <workItem from="1762171391288" duration="7125000" />
-      <workItem from="1762280720475" duration="10452000" />
+      <workItem from="1762280720475" duration="10777000" />
     </task>
     <task id="LOCAL-00001" summary="This is the work till now, the codes of every module is there now i am integrating the active learning and federated learning also testing them">
       <option name="closed" value="true" />
@@ -116,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759006507274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made changes in the federated and active learning module and they are working pretty good">
+      <option name="closed" value="true" />
+      <created>1762299810993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762299810993</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the work till now, the codes of every module is there now i am integrating the active learning and federated learning also testing them" />
     <MESSAGE value="adding some new things for the testing of active learning and federated learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding some new things for the testing of active learning and federated learning" />
+    <MESSAGE value="made changes in the federated and active learning module and they are working pretty good" />
+    <option name="LAST_COMMIT_MESSAGE" value="made changes in the federated and active learning module and they are working pretty good" />
   </component>
 </project>
